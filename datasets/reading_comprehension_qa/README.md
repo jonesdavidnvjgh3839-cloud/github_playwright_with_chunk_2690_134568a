@@ -8,5 +8,5 @@ Upstream Hub Dataset: squad
 Upstream Description: Stanford Question Answering Dataset (SQuAD) reading comprehension corpus
 
 ## License
-License: cc-by-sa-4.0
+License: pending review
 Provenance: This dataset is derived from the upstream dataset identified in the Source section.
