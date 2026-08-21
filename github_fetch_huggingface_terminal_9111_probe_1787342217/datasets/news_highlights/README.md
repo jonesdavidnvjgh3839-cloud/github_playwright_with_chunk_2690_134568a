@@ -1,3 +1,3 @@
 # News Highlights
 
-License: placeholder
+License: apache-2.0
