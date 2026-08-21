@@ -8,5 +8,5 @@ Upstream Hub Dataset: cnn_dailymail
 Upstream Description: CNN / Daily Mail news articles (summarization corpus)
 
 ## License
-License: apache-2.0
+License: pending review
 Provenance: This dataset is derived from the upstream dataset identified in the Source section.
